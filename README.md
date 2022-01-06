@@ -1,3 +1,3 @@
 # spotify-clone
 
-Deploy name - https://spotify-clone-green.vercel.app/
+Deploy link - https://spotify-clone-green.vercel.app/
